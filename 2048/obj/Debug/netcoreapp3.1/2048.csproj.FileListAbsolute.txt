@@ -1,0 +1,11 @@
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.exe
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.deps.json
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.runtimeconfig.json
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.runtimeconfig.dev.json
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.dll
+d:\CSFiles\2048Practice\2048\bin\Debug\netcoreapp3.1\2048.pdb
+d:\CSFiles\2048Practice\2048\obj\Debug\netcoreapp3.1\2048.csprojAssemblyReference.cache
+d:\CSFiles\2048Practice\2048\obj\Debug\netcoreapp3.1\2048.AssemblyInfoInputs.cache
+d:\CSFiles\2048Practice\2048\obj\Debug\netcoreapp3.1\2048.AssemblyInfo.cs
+d:\CSFiles\2048Practice\2048\obj\Debug\netcoreapp3.1\2048.dll
+d:\CSFiles\2048Practice\2048\obj\Debug\netcoreapp3.1\2048.pdb
